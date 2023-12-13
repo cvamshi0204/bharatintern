@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #000; /* Updated background color to black */
+  color: #ff0; /* Updated text color to yellow */
+}
+
+h1, h2 {
+  color: #ff0; /* Updated heading text color to yellow */
+}
+
+a {
+ 
